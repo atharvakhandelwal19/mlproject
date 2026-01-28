@@ -5,5 +5,8 @@ seaborn
 catboost
 xgboost
 dill
+flask
+tqdm
+optuna
 
 -e .
